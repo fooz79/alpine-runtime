@@ -8,3 +8,8 @@ Alpine web service runtime with build tools
     -   supervisord
     -   nginx
     -   redis
+-   tools
+    -   mongodb-tools
+    -   mysql-client
+    -   bind-tools
+    -   build-base
