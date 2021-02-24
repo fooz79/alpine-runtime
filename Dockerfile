@@ -2,7 +2,6 @@ FROM fooz79/alpine-openrc:3.13
 
 RUN apk add --no-cache \
     bind-tools \
-    build-base \
     busybox-extras \
     busybox-initscripts \
     git \
