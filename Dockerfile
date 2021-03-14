@@ -8,6 +8,7 @@ RUN apk add --no-cache \
     git-bash-completion \
     htop \
     logrotate \
+    mariadb-connector-c \
     mongodb-tools \
     mysql-client \
     nginx \
