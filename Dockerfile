@@ -1,4 +1,4 @@
-FROM fooz79/alpine-openrc:3.13
+FROM fooz79/alpine-openrc:3.15
 
 RUN apk add --no-cache \
     bind-tools \
