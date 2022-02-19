@@ -4,6 +4,7 @@ RUN apk add --no-cache \
     bind-tools \
     busybox-extras \
     busybox-initscripts \
+    curl \
     git \
     git-bash-completion \
     htop \
